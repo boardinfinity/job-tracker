@@ -42,7 +42,7 @@
     "@radix-ui/react-tooltip": "^1.2.0",
     "@supabase/supabase-js": "^2.99.1",
     "@tanstack/react-query": "^5.60.5",
-    "@trigger.dev/sdk": "^4.4.3",
+    "@trigger.dev/sdk": "^4.8.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
@@ -76,8 +76,8 @@
     "vaul": "^1.1.2",
     "wouter": "^3.3.5",
     "ws": "^8.18.0",
-    "zod": "^3.24.2",
-    "zod-validation-error": "^3.4.0"
+    "zod": "^4.6.7",
+    "zod-validation-error": "^5.0.0"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
@@ -92,7 +92,7 @@
     "@types/react-dom": "^18.3.1",
     "@types/ws": "^8.5.13",
     "@vercel/ncc": "^0.38.4",
-    "@vercel/node": "^5.6.15",
+    "@vercel/node": "^5.10.2",
     "@vitejs/plugin-react": "^4.7.0",
     "autoprefixer": "^10.4.20",
     "drizzle-kit": "^0.31.8",
